@@ -1,0 +1,157 @@
+{
+  "id": "w3zj3",
+  "category": "other",
+  "name": {
+    "type": "translation",
+    "key": "item.brt.limansk.airdrop_add.name",
+    "args": {},
+    "lines": {
+      "ru": "Модифицированная аномальная батарея",
+      "en": "Modified Anomalous Battery"
+    }
+  },
+  "color": "RANK_MASTER",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight"
+            }
+          },
+          "value": 0.45,
+          "formatted": {
+            "value": {
+              "ru": "0,45 кг",
+              "en": "0.45 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": []
+    },
+    {},
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "args": {},
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.tooltip.info.rubles",
+            "args": {
+              "cost": "200000.0"
+            },
+            "lines": {
+              "ru": "200 000 руб.",
+              "en": "200,000 rubles"
+            }
+          }
+        }
+      ]
+    },
+    {},
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.brt.limansk.airdrop_add.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "После нескольких случаев совершенно неожиданных аварий из-за использования аномальных батарей, некоторые из производителей начали продавать модифицированные аномальные батареи, уверяя, что вот они-то точно не несут в себе никакой угрозы...",
+          "en": "After a number of instances of entirely unexpected incidents related to the use of anomalous batteries, some manufacturers started selling modified anomalous batteries and assured everyone that they definitely weren’t a danger to anyone..."
+        }
+      }
+    }
+  ]
+}
